@@ -34,4 +34,4 @@ class TestDemo3(unittest.TestCase):
 #     # 定义报告文件路径
 #     report_path = os.path.join(current_directory, 'test_report.html')
 #     # 打开一个文件用于写入报告
-#     测试自动集成
+#     测试自动集成2
